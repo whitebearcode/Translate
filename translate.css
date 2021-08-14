@@ -1,0 +1,151 @@
+.gflag {
+    vertical-align:middle;
+    font-size:24px;
+    padding:1px 0;
+    background-repeat:no-repeat;
+    background-image:url('../images/24.png');
+    margin-left:3px;
+    position:absolute;
+    width:24px;
+    height:24px;
+    }
+#goog-gt-tt {
+    display:none !important;
+}
+.goog-te-banner-frame {
+    display:none !important;
+}
+.goog-te-menu-value:hover {
+    text-decoration:none !important;
+}
+body {
+    top:0 !important;
+}
+#win {
+  	position: absolute;
+  	margin-top: 20px;
+  	max-width: 310px;
+  	border: 1px solid rgb(204, 204, 204);
+  	background-color: rgb(238, 238, 238);
+  	text-align: center;
+  	border-radius: 5px;
+  	z-index:3;
+}
+#back {
+  	z-index:3;
+  	margin:0px;
+  	POSITION:absolute;
+  	left:0;
+  	top:0;
+  	width:100%;
+  	height:100%;
+  	background-color:#000;
+  	filter:alpha(opacity=50);
+  	opacity: 0.75;
+}
+#google_translate_element2 {
+    display:none!important;
+}
+.translate-panel-top{
+    color:#555;
+    padding:5px;
+    font-size:12px;
+    border-bottom:1px solid #CCC;
+}
+.translate-panel-top a:link{
+    text-decoration: none;
+    color:#555;
+    padding:0 5px 5px 0;
+    font-size:12px;
+    border-bottom:1px solid #CCC;
+}
+.translate-panel-content{
+    padding:2px;
+    width:250px;
+}
+.translate-panel-content a:link{
+    color:#555;
+    text-decoration:none;
+}
+.translate-panel-content a:hover{
+    color:#555;
+    text-decoration:underline;
+}
+.translate-panel-content a:visited{
+    color:#555;
+    text-decoration:none; 
+}
+.translate-item{
+    height: 25px;
+    color:#555;
+    float:left;
+    width:120px;
+    margin-right: 2px;
+}
+.translate-item a:hover{
+    height: 25px;
+    border:1px solid #CCC;
+    color:#555;
+    float:left;
+    width:120px;
+    margin-right: 2px;
+}
+.translate-href{
+    margin:5px;
+    width:100%;
+    font-size:12px;
+}
+.more-language{
+    color:#555;
+    text-align: right;
+    font-size:12px;
+    margin-top: 5px;
+    margin-right:5px;
+}
+.translate-panel-bottom{
+  	margin-top:5px;
+  	float:left;
+  	width:100%;
+    color:#555;
+    padding:5px;
+    font-size:12px;
+    border-top: 1px solid #CCC;
+}
+.translate-panel-bottom a:link{
+    color:#555;
+    text-decoration: none;
+}
+.translate-panel-bottom a:hover{
+    color:#555;
+    text-decoration: underline;
+}
+.translate-panel-bottom a:visited{
+    color:#555;
+    text-decoration: none;
+}
+#all_language {
+  	z-index: 5;
+  	position:absolute;
+  	border:1px solid #CCC;
+  	background-color:#EEE;
+  	text-align:center;
+  	border-radius:5px;
+ 	margin:auto 0;
+}
+.all_language_content{
+  	float:left;
+    width: 100%;
+    margin:5px;
+}
+.all_language_content a:link{
+    color:#555;
+    text-decoration: none;
+}
+.all_language_content a:hover{
+    color:#555;
+    text-decoration:underline;
+}
+.all_language_content a:visited{
+    color: #555;
+    text-decoration: none;
+}
